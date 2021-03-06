@@ -1,2 +1,0 @@
-# smaller-apollo
-Begin app
